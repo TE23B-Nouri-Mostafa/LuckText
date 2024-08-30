@@ -9,29 +9,57 @@ Console.WriteLine("Write your name: ");
 
 name = Console.ReadLine();
 
+while (name == "")
+{
+    Console.WriteLine("please write your name or i will kill you");
+name = Console.ReadLine();    
+}
+
+
 String favoriteanimal;
 
 Console.WriteLine("Write your favorite animal: ");
 
 favoriteanimal = Console.ReadLine();
+while (favoriteanimal == "")
+{
+    Console.WriteLine("please write your favoriteanimal or i will kill you");
+favoriteanimal = Console.ReadLine();    
+}
 
 String favoritecar;
 
 Console.WriteLine("Write your favorite car: ");
 
 favoritecar = Console.ReadLine();
+while (favoritecar == "")
+{
+    Console.WriteLine("please write your favoritecar or i will kill you");
+favoritecar =Console.ReadLine();    
+}
 
 String favoritefood;
 
 Console.WriteLine("Write your favorite food: ");
 
 favoritefood = Console.ReadLine();
+while (favoritefood == "")
+{
+    Console.WriteLine("please write your favoritefood or i will kill you");
+favoritefood = Console.ReadLine();    
+}
 
 String favoriteperson;
 
 Console.WriteLine("Write your favorite person: ");
 
 favoriteperson = Console.ReadLine();
+while (favoriteperson == "")
+{
+    Console.WriteLine("please write your favoriteperson or i will kill you");
+Console.ReadLine();    
+}
+
 
 Console.WriteLine($"Once upon a time there was this person named {name}. {name} was driving a {favoritecar} and was speeding then he saw {favoriteanimal}.");
 
