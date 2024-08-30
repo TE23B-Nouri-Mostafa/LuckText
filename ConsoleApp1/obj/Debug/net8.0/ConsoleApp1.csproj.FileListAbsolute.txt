@@ -12,3 +12,4 @@ c:\Users\mostafa.nouri\Documents\Programering1\LuckText\ConsoleApp1\obj\Debug\ne
 c:\Users\mostafa.nouri\Documents\Programering1\LuckText\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
 c:\Users\mostafa.nouri\Documents\Programering1\LuckText\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
 c:\Users\mostafa.nouri\Documents\Programering1\LuckText\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\mostafa.nouri\Documents\Programering1\LuckText\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
